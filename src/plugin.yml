@@ -1,0 +1,10 @@
+name: Application_Addon
+version: 1.0
+author: Delta203
+
+main: de.application.delta203.main.Application
+
+commands:
+  logindatas:
+       description: Shows your logindatas for application formulas
+  setapplycationmoderator:

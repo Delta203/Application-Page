@@ -1,0 +1,8 @@
+#plugin by Delta203
+prefix: " &7• &2Build&aPlay&f.tk &f| &7"
+
+mysql_host: "localhost"
+mysql_port: "3306"
+mysql_database: "buildplay"
+mysql_user: "root"
+mysql_password: "yoshiihsoy"
